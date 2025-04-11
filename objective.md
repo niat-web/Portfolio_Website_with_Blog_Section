@@ -4,7 +4,7 @@
 This project implements a basic portfolio website with a blog section and contact form. Key functionalities include a dark/light mode toggle using local storage for persistence, a dynamic blog post creation system with form validation, and a contact form with email validation. It utilizes JavaScript for DOM manipulation, event handling, form validation, and basic data storage. The code demonstrates fundamental JavaScript concepts such as variable scoping, control flow, data types, array and object manipulation and more.
 
 ## Output
-<iframe src="https://github.com/niat-web/Portfolio_Website_with_Blog_Section" height="1000" width="300" title="Portfolio_Website_with_Blog_Section"></iframe>
+<iframe src="https://niat-web.github.io/Portfolio_Website_with_Blog_Section/" height="1000" width="300" title="Portfolio_Website_with_Blog_Section"></iframe>
 
 ## Project Requirements
 **Technologies:** HTML, CSS, JavaScript
